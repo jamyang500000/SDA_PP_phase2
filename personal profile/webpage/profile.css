@@ -1,0 +1,1182 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 4492px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-air-6 {
+  background: #1c1b1b;
+  width: 1440px;
+  height: 972px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.skill-icons-instagram {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 66px;
+  top: 632px;
+  overflow: hidden;
+}
+.group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.dnd {
+  width: 200px;
+  height: 43px;
+  position: absolute;
+  left: 50px;
+  top: 733px;
+}
+.rectangle-1 {
+  background: #56a9ed;
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-2 {
+  background: #56a9ed;
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  filter: blur(7.5px);
+}
+.download-cv {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 23%;
+  left: 22.5%;
+  width: 54.5%;
+  bottom: 16.28%;
+  top: 16.28%;
+  height: 67.44%;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: #bb227e;
+  border-radius: 50%;
+  width: 271px;
+  height: 271px;
+  position: absolute;
+  left: 880px;
+  top: 256px;
+  box-shadow: 0px 0px 45px 58px rgba(226, 27, 177, 0.25);
+}
+.portfolio {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 31px;
+  top: 14px;
+}
+.home {
+  width: 55px;
+  height: 35px;
+  position: absolute;
+  left: 656px;
+  top: 43px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home3 {
+  width: 55px;
+  height: 35px;
+  position: absolute;
+  left: 776px;
+  top: 43px;
+}
+.home4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -3.64%;
+  left: 0%;
+  width: 103.64%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home5 {
+  width: 55px;
+  height: 35px;
+  position: absolute;
+  left: 896px;
+  top: 43px;
+}
+.home6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -47.27%;
+  left: 0%;
+  width: 147.27%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home7 {
+  width: 55px;
+  height: 35px;
+  position: absolute;
+  left: 1016px;
+  top: 43px;
+}
+.home8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -54.55%;
+  left: 0%;
+  width: 154.55%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home9 {
+  width: 55px;
+  height: 35px;
+  position: absolute;
+  left: 1136px;
+  top: 43px;
+}
+.home10 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -30.91%;
+  left: 0%;
+  width: 130.91%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.hello-it-s-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 270px;
+}
+.jamyang-dorji {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 62px;
+  top: 322px;
+}
+.and-i-am-a-ux-ui-designer {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 489px;
+}
+.skill-icons-gmail-light {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 276px;
+  top: 632px;
+  overflow: hidden;
+}
+.group2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.group-1 {
+  width: 3.52%;
+  height: 5.41%;
+  position: absolute;
+  right: 83.12%;
+  left: 13.36%;
+  bottom: 18.63%;
+  top: 75.96%;
+  overflow: visible;
+}
+.download-6 {
+  border-radius: 50%;
+  width: 271px;
+  height: 271px;
+  position: absolute;
+  left: 873px;
+  top: 233px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.mac-book-air-7 {
+  background: #1c1b1b;
+  width: 1440px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 972px;
+  overflow: hidden;
+}
+.home11 {
+  width: 62px;
+  height: 35px;
+  position: absolute;
+  left: 656px;
+  top: 43px;
+}
+.home12 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.29%;
+  left: 0%;
+  width: 88.71%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home13 {
+  width: 87px;
+  height: 35px;
+  position: absolute;
+  left: 896px;
+  top: 43px;
+}
+.home14 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.9%;
+  left: 0%;
+  width: 93.1%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home15 {
+  width: 88px;
+  height: 35px;
+  position: absolute;
+  left: 1016px;
+  top: 43px;
+}
+.home16 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 3.41%;
+  left: 0%;
+  width: 96.59%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home17 {
+  width: 77px;
+  height: 35px;
+  position: absolute;
+  left: 1136px;
+  top: 43px;
+}
+.home18 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.49%;
+  left: 0%;
+  width: 93.51%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.about-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 161px;
+}
+.rectangle-3 {
+  background: #1c1b1b;
+  border-radius: 36px;
+  width: 724px;
+  height: 381px;
+  position: absolute;
+  left: 484px;
+  top: 322px;
+  box-shadow: 0px 4px 4px 15px rgba(0, 0, 0, 0.25);
+}
+.i-am-jamyang-dorji-currently-enrolled-at-college-of-science-and-technology-cst-pursuing-degree-in-bachelor-of-software-engineering {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 566px;
+  top: 416px;
+}
+.ellipse-3 {
+  background: #bb227e;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 18px;
+  width: 271px;
+  height: 271px;
+  position: absolute;
+  left: 71px;
+  top: 281px;
+  box-shadow: 0px 4px 4px 23px rgba(0, 0, 0, 0.25);
+}
+.download-62 {
+  border-radius: 50%;
+  width: 271px;
+  height: 271px;
+  position: absolute;
+  left: 60px;
+  top: 256px;
+  box-shadow: 0px 4px 4px -8px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.mac-book-air-8 {
+  background: #1c1b1b;
+  width: 1440px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 1804px;
+  overflow: hidden;
+}
+.home19 {
+  width: 63px;
+  height: 35px;
+  position: absolute;
+  left: 776px;
+  top: 43px;
+}
+.home20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.52%;
+  left: 0%;
+  width: 90.48%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home21 {
+  width: 81px;
+  height: 35px;
+  position: absolute;
+  left: 1040px;
+  top: 43px;
+}
+.home22 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.11%;
+  left: 0%;
+  width: 88.89%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.rectangle-4 {
+  background: #1c1b1b;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  left: 68px;
+  top: 228px;
+}
+.rectangle-5 {
+  background: #1c1b1b;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  left: 465px;
+  top: 228px;
+}
+.rectangle-6 {
+  background: #1c1b1b;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  left: 862px;
+  top: 228px;
+}
+.ux-ui-designer {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 162px;
+  top: 244px;
+  width: 161px;
+  height: 34px;
+}
+.web-development {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 549px;
+  top: 244px;
+  width: 181px;
+  height: 34px;
+}
+.digital-marketing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 946px;
+  top: 244px;
+  width: 181px;
+  height: 34px;
+}
+.a-user-interface-is-the-interface-through-which-a-user-interacts-with-a-device-for-example-on-a-mobile-phone-the-user-interface-is-what-is-displayed-on-the-screen-of-the-device {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 83px;
+  top: 320px;
+  width: 335px;
+  height: 342px;
+}
+.web-development-refers-to-the-creating-building-and-maintaining-of-websites-it-includes-aspects-such-as-web-design-web-publishing-web-programming-and-database-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 486px;
+  top: 335px;
+  width: 312px;
+  height: 305px;
+}
+.also-known-as-online-marketing-or-internet-marketing-digital-marketing-communicates-messages-through-digital-channels-accessed-through-electronic-devices-including-phones-computers-and-tablets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 899px;
+  top: 325px;
+  width: 289px;
+  height: 293px;
+}
+.also-known-as-online-marketing-or-internet-marketing-digital-marketing-communicates-messages-through-digital-channels-accessed-through-electronic-devices-including-phones-computers-and-tablets-span {
+  color: #ffffff;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.also-known-as-online-marketing-or-internet-marketing-digital-marketing-communicates-messages-through-digital-channels-accessed-through-electronic-devices-including-phones-computers-and-tablets-span2 {
+  color: #ffffff;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.also-known-as-online-marketing-or-internet-marketing-digital-marketing-communicates-messages-through-digital-channels-accessed-through-electronic-devices-including-phones-computers-and-tablets-span3 {
+  color: #ffffff;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.mac-book-air-9 {
+  background: #1c1b1b;
+  width: 1440px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 3660px;
+  overflow: hidden;
+}
+.screenshot-2024-10-06-055401 {
+  width: 428px;
+  height: 517px;
+  position: absolute;
+  left: 340px;
+  top: 201px;
+  object-fit: cover;
+}
+.rectangle-27 {
+  background: #ffffff;
+  width: 367px;
+  height: 94px;
+  position: absolute;
+  left: 372px;
+  top: 213px;
+}
+.jamyang-dorjee {
+  color: #000000;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 455px;
+  top: 238px;
+}
+.rectangle-28 {
+  background: #bb227e;
+  width: 94px;
+  height: 108px;
+  position: absolute;
+  left: 390px;
+  top: 328px;
+}
+.download-63 {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 390px;
+  top: 336px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.mac-book-air-10 {
+  background: #1c1b1b;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 2636px;
+  overflow: hidden;
+}
+.home23 {
+  width: 65px;
+  height: 35px;
+  position: absolute;
+  left: 776px;
+  top: 43px;
+}
+.home24 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 12.31%;
+  left: 0%;
+  width: 87.69%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home25 {
+  width: 93px;
+  height: 35px;
+  position: absolute;
+  left: 896px;
+  top: 43px;
+}
+.home26 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 12.9%;
+  left: 0%;
+  width: 87.1%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home27 {
+  width: 83px;
+  height: 35px;
+  position: absolute;
+  left: 1044px;
+  top: 43px;
+}
+.home28 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 13.25%;
+  left: 0%;
+  width: 86.75%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.rectangle-62 {
+  background: rgba(72, 68, 68, 0.07);
+  width: 307px;
+  height: 378px;
+  position: absolute;
+  left: 58px;
+  top: 161px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-7 {
+  background: #000000;
+  border-radius: 10px;
+  width: 307px;
+  height: 378px;
+  position: absolute;
+  left: 404px;
+  top: 161px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.highlights {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 423px;
+  top: 334px;
+}
+.jamyang {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 419px;
+  top: 223px;
+}
+.fb-img-1644126017604 {
+  border-radius: 10px;
+  width: 307px;
+  height: 138px;
+  position: absolute;
+  left: 58px;
+  top: 161px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: #000000;
+  width: 307px;
+  height: 93px;
+  position: absolute;
+  left: 58px;
+  top: 299px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.jayy-dee-mc-gregor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 325px;
+}
+.rectangle-10 {
+  background: #000000;
+  border-radius: 10px;
+  width: 307px;
+  height: 137px;
+  position: absolute;
+  left: 58px;
+  top: 402px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.img-20221123-191311-0608 {
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  left: 62px;
+  top: 257px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-11 {
+  background: #121bd4;
+  border-radius: 5px;
+  width: 99px;
+  height: 19px;
+  position: absolute;
+  left: 73px;
+  top: 357px;
+}
+.rectangle-12 {
+  background: #595959;
+  border-radius: 5px;
+  width: 122px;
+  height: 19px;
+  position: absolute;
+  left: 193px;
+  top: 357px;
+}
+.rectangle-13 {
+  background: #595959;
+  border-radius: 5px;
+  width: 31px;
+  height: 19px;
+  position: absolute;
+  left: 325px;
+  top: 357px;
+}
+.rectangle-14 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  left: 73px;
+  top: 427px;
+}
+.rectangle-15 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  left: 168px;
+  top: 427px;
+}
+.rectangle-16 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  left: 263px;
+  top: 427px;
+}
+.img-20231219-092214-0935 {
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 418px;
+  top: 172px;
+  object-fit: cover;
+}
+.post {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 505px;
+  top: 180px;
+}
+.followers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 549px;
+  top: 179px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JimNightshade-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 568px;
+  top: 202px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JimNightshade-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 644px;
+  top: 202px;
+}
+.following {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 626px;
+  top: 180px;
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JimNightshade-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 510px;
+  top: 202px;
+  width: 25px;
+}
+.rectangle-17 {
+  background: #595959;
+  border-radius: 5px;
+  width: 135px;
+  height: 17px;
+  position: absolute;
+  left: 418px;
+  top: 266px;
+}
+.rectangle-18 {
+  background: #595959;
+  border-radius: 5px;
+  width: 135px;
+  height: 17px;
+  position: absolute;
+  left: 558px;
+  top: 266px;
+}
+.fb-img-1679582937004 {
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 424px;
+  top: 286px;
+  object-fit: cover;
+}
+.rectangle-19 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 422px;
+  top: 367px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-20 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 521px;
+  top: 366px;
+}
+.rectangle-21 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 620px;
+  top: 365px;
+}
+.rectangle-22 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 424px;
+  top: 456px;
+}
+.rectangle-23 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 521px;
+  top: 456px;
+}
+.rectangle-24 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 618px;
+  top: 456px;
+}
+.rectangle-25 {
+  background: rgba(217, 217, 217, 0.4);
+  border-radius: 23px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 381px;
+  height: 56px;
+  position: absolute;
+  left: 757px;
+  top: 210px;
+}
+.rectangle-26 {
+  background: rgba(217, 217, 217, 0.4);
+  border-radius: 23px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 381px;
+  height: 56px;
+  position: absolute;
+  left: 757px;
+  top: 284px;
+}
+._17322284 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 833px;
+  top: 215px;
+}
+.jamyangdbhai-66-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 770px;
+  top: 291px;
+}
+.skill-icons-gmail-light2 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1073px;
+  top: 288px;
+  overflow: hidden;
+}
+.group3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.bi-phone-fill {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 1019px;
+  top: 221px;
+  overflow: visible;
+}
+.home29 {
+  width: 66px;
+  height: 35px;
+  position: absolute;
+  left: 1357px;
+  top: -84px;
+}
+.home30 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 13.64%;
+  left: 0%;
+  width: 86.36%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.home31 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 95px;
+  height: 130px;
+  position: absolute;
+  left: 363px;
+  top: -340px;
+  overflow: hidden;
+}
+.property-1-default {
+  width: 55px;
+  height: 35px;
+  position: relative;
+}
+.property-1-variant-2 {
+  width: 55px;
+  height: 35px;
+  position: relative;
+}
+.home32 {
+  color: #9747ff;
+  text-align: left;
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.dnd2 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 239px;
+  height: 146px;
+  position: absolute;
+  left: 18px;
+  top: -348px;
+  overflow: hidden;
+}
+.property-1-default2 {
+  width: 200px;
+  height: 43px;
+  position: relative;
+}
+.property-1-variant-22 {
+  width: 200px;
+  height: 43px;
+  position: relative;
+}
+.rectangle-29 {
+  background: #56a9ed;
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  filter: blur(2.5px);
+}
